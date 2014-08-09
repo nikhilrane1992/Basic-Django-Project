@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<title>{% block title %} My Base Template {% endblock %}
+</title>
+<style type = "text/css">
+</head>
+
+body {
+		text-align : center;
+	  }
+
+#page {
+		width : 960px;
+		text-align : left;
+		margin : 10px auto 20px auto;
+		background-color : #0c0c0c;
+	    }
+	    
+#sidebar {
+		    float : left;
+		    width : 200px;
+		    border : 1px solid #000;
+		 }
+		 
+#content {
+		   float : left;
+		   width : 600px;
+		   border : 1px solid #f00;
+		 }
+</style>
+
+</head>
+
+<body>
+
+<div id = "page">
+	<div id ="sidebar">
+		{% block sidebar %} 
+		<ul>
+		<li><a href="/articles/all">Articles</a></li>
+		<li><a href="/admin">admin</a></li>
+		</ul>
+		{% endblock %}
+	</div>
+	<div id = "content">
+		{% block content %}{% endblock %}
+	</div>
+</div>
+
+<script src = "/Media/assests/jquery-2.1.1.js"></script>
+<script src = "/Media/assests/ajax.js"> </script>
+</body>
+
+
+</html>

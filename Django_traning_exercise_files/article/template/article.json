@@ -1,0 +1,79 @@
+[
+{
+    "pk": 1, 
+    "model": "article.article", 
+    "fields": {
+        "body": "Android is a mobile operating system (OS) based on the Linux kernel that is currently developed by Google. With a user interface based on direct manipulation, Android is designed primarily for touchscreen mobile devices such as smartphones and tablet computers, with specialized user interfaces for televisions (Android TV), cars (Android Auto), and wrist watches (Android Wear). The OS uses touch inputs that loosely correspond to real-world actions, like swiping, tapping, pinching, and reverse pinching to manipulate on-screen objects, and a virtual keyboard. Despite being primarily designed for touchscreen input, it also has been used in game consoles, digital cameras, and other electronics.\r\n\r\n", 
+        "thumbnail": "upload_files/1406382590_86_manoj patil sir.jpg", 
+        "pub_date": "1992-12-12T00:00:00Z", 
+        "likes": 44, 
+        "title": "Android"
+    }
+},
+{
+    "pk": 2, 
+    "model": "article.article", 
+    "fields": {
+        "body": "bjfksfshvn", 
+        "thumbnail": "upload_files/1406383615_38_1406382522_67_manoj patil sir.jpg", 
+        "pub_date": "1992-12-12T00:00:00Z", 
+        "likes": 33, 
+        "title": "hello sir"
+    }
+},
+{
+    "pk": 3, 
+    "model": "article.article", 
+    "fields": {
+        "body": "Sir photo", 
+        "thumbnail": "upload_files/1406442854_38_manoj patil sir.jpg", 
+        "pub_date": "1992-12-12T00:00:00Z", 
+        "likes": 12889933942394, 
+        "title": "Nikhil"
+    }
+},
+{
+    "pk": 4, 
+    "model": "article.article", 
+    "fields": {
+        "body": "hello sir", 
+        "thumbnail": "upload_files/1406443010_43_manoj patil sir.jpg", 
+        "pub_date": "1992-12-12T00:00:00Z", 
+        "likes": 33, 
+        "title": "Nikhi Rane"
+    }
+},
+{
+    "pk": 5, 
+    "model": "article.article", 
+    "fields": {
+        "body": "hello sir", 
+        "thumbnail": "upload_files/1406443340_09_manoj patil sir.jpg", 
+        "pub_date": "1992-12-12T00:00:00Z", 
+        "likes": 56, 
+        "title": "Rahul"
+    }
+},
+{
+    "pk": 6, 
+    "model": "article.article", 
+    "fields": {
+        "body": "hello sir", 
+        "thumbnail": "upload_files/1406443511_36_manoj patil sir.png", 
+        "pub_date": "1992-12-12T00:00:00Z", 
+        "likes": 7887, 
+        "title": "akshay"
+    }
+},
+{
+    "pk": 7, 
+    "model": "article.article", 
+    "fields": {
+        "body": "Oh ho sir ", 
+        "thumbnail": "uploaded_files/1406443836_43_manoj patil sir.jpg", 
+        "pub_date": "1992-12-12T00:00:00Z", 
+        "likes": 23, 
+        "title": "Sir"
+    }
+}
+]
