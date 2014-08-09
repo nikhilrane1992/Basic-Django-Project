@@ -1,0 +1,11 @@
+Points cover
+1  Creating simple django project
+2  Creating django app in project
+3  Create models in apps
+4  Create template and use in django projects.
+5  Creating views
+6  Creating registration form
+7  Cookies session
+8  Creating login/logout forms
+9  Inserting data in models using view 
+10  Inserting image in articles
